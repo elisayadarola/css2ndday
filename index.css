@@ -1,0 +1,26 @@
+#Title {
+    font-style: normal;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    text-decoration-color: white;
+    background-color: green;
+    border: rgb(0, 0, 0);
+    border-width: medium;
+    border-color: black;
+    border-style: solid;
+    margin: 10px 10px 40px 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+#content {
+    color:white;
+    background-color: cadetblue;
+    padding: 10px 10px 10px 10px;
+}
+.card {
+    background-color: rgb(189, 184, 184);
+    padding:100px;
+    overflow: visible;
+}
